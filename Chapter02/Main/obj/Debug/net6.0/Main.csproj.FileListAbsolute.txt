@@ -1,0 +1,14 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\bin\Debug\net6.0\Main.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\bin\Debug\net6.0\Main.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\bin\Debug\net6.0\Main.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\bin\Debug\net6.0\Main.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\bin\Debug\net6.0\ref\Main.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\bin\Debug\net6.0\Main.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\obj\Debug\net6.0\Main.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\obj\Debug\net6.0\Main.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\obj\Debug\net6.0\ref\Main.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\obj\Debug\net6.0\Main.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Main\obj\Debug\net6.0\Main.genruntimeconfig.cache

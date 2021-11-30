@@ -1,0 +1,15 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\bin\Debug\net6.0\ref\TopLevelProgram.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\obj\Debug\net6.0\ref\TopLevelProgram.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.genruntimeconfig.cache

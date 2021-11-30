@@ -1,0 +1,16 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache

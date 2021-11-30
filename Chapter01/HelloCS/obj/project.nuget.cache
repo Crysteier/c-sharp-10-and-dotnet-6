@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLuVBbl9l2RNFUiMgXAovwBwUBdPUs2Q8M4yUdXvtNbR3hwfNfYYDRA0RYnQB8Jhlkv0jnphxMho/K6KTHXFUg==",
+  "success": true,
+  "projectFilePath": "D:\\VS Projects\\Learning-c-sharp-10-and-dotnet-6\\Chapter01\\HelloCS\\HelloCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guntel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
