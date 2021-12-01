@@ -1,0 +1,15 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\bin\Debug\net6.0\Formatting.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\bin\Debug\net6.0\Formatting.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\bin\Debug\net6.0\Formatting.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\bin\Debug\net6.0\Formatting.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\bin\Debug\net6.0\ref\Formatting.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\bin\Debug\net6.0\Formatting.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\obj\Debug\net6.0\Formatting.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\obj\Debug\net6.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\obj\Debug\net6.0\Formatting.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\obj\Debug\net6.0\Formatting.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\obj\Debug\net6.0\ref\Formatting.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\obj\Debug\net6.0\Formatting.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache

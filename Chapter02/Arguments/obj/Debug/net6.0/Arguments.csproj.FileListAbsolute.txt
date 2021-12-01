@@ -1,0 +1,15 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\bin\Debug\net6.0\Arguments.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\bin\Debug\net6.0\Arguments.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\bin\Debug\net6.0\Arguments.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\bin\Debug\net6.0\Arguments.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\bin\Debug\net6.0\ref\Arguments.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\bin\Debug\net6.0\Arguments.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\obj\Debug\net6.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\obj\Debug\net6.0\Arguments.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\obj\Debug\net6.0\ref\Arguments.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\obj\Debug\net6.0\Arguments.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter02\Arguments\obj\Debug\net6.0\Arguments.genruntimeconfig.cache
