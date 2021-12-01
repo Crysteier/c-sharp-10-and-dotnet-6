@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "446f5d8b-6e05-4e18-8c16-3f39ac829819": {
+      "ProjectGuid": "446f5d8b-6e05-4e18-8c16-3f39ac829819",
+      "DisplayName": "Operators",
+      "ColorIndex": 0
+    },
+    "b8121333-7b2d-40a4-ba0e-2107c705df20": {
+      "ProjectGuid": "b8121333-7b2d-40a4-ba0e-2107c705df20",
+      "DisplayName": "SelectionStatements",
+      "ColorIndex": 1
+    },
+    "4a4f65f3-5703-4b76-9895-c2b1ac4169fa": {
+      "ProjectGuid": "4a4f65f3-5703-4b76-9895-c2b1ac4169fa",
+      "DisplayName": "IterationStatements",
+      "ColorIndex": 2
+    },
+    "d6f10290-ee33-4b84-a3ba-fb33034b7f5d": {
+      "ProjectGuid": "d6f10290-ee33-4b84-a3ba-fb33034b7f5d",
+      "DisplayName": "CastingConverting",
+      "ColorIndex": 3
+    },
+    "dfb9bffe-ce18-4677-9db8-3234b329f9da": {
+      "ProjectGuid": "dfb9bffe-ce18-4677-9db8-3234b329f9da",
+      "DisplayName": "HandlingExceptions",
+      "ColorIndex": 4
+    },
+    "392f582c-c734-4947-a101-c2b9b728c37c": {
+      "ProjectGuid": "392f582c-c734-4947-a101-c2b9b728c37c",
+      "DisplayName": "CheckingForOverflow",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

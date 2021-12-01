@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingFunctions", "WritingFunctions\WritingFunctions.csproj", "{0C8957B6-6BC9-492D-BA7D-F3AFFDBB2E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging", "Debugging\Debugging.csproj", "{39BC1F5E-69BA-415E-A3E7-559964C78C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instrumenting", "Instrumenting\Instrumenting.csproj", "{BD946D05-5E2E-4C6E-B39F-69F3CC8F0D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{D8C94217-ABD6-4AC6-BF99-0F79041F02BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibUnitTests", "CalculatorLibUnitTests\CalculatorLibUnitTests.csproj", "{D206E095-A601-4B24-8807-EF8204F6B165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandlingLib", "CallStackExceptionHandlingLib\CallStackExceptionHandlingLib.csproj", "{6DDBDC9C-CA8F-491E-8B42-EBDB9549ECB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandling", "CallStackExceptionHandling\CallStackExceptionHandling.csproj", "{6733E6D6-5F1B-4FAD-AA2C-39B57AFBC4D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8957B6-6BC9-492D-BA7D-F3AFFDBB2E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8957B6-6BC9-492D-BA7D-F3AFFDBB2E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8957B6-6BC9-492D-BA7D-F3AFFDBB2E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8957B6-6BC9-492D-BA7D-F3AFFDBB2E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39BC1F5E-69BA-415E-A3E7-559964C78C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BC1F5E-69BA-415E-A3E7-559964C78C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BC1F5E-69BA-415E-A3E7-559964C78C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BC1F5E-69BA-415E-A3E7-559964C78C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD946D05-5E2E-4C6E-B39F-69F3CC8F0D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD946D05-5E2E-4C6E-B39F-69F3CC8F0D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD946D05-5E2E-4C6E-B39F-69F3CC8F0D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD946D05-5E2E-4C6E-B39F-69F3CC8F0D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C94217-ABD6-4AC6-BF99-0F79041F02BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C94217-ABD6-4AC6-BF99-0F79041F02BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C94217-ABD6-4AC6-BF99-0F79041F02BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C94217-ABD6-4AC6-BF99-0F79041F02BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D206E095-A601-4B24-8807-EF8204F6B165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D206E095-A601-4B24-8807-EF8204F6B165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D206E095-A601-4B24-8807-EF8204F6B165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D206E095-A601-4B24-8807-EF8204F6B165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DDBDC9C-CA8F-491E-8B42-EBDB9549ECB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDBDC9C-CA8F-491E-8B42-EBDB9549ECB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDBDC9C-CA8F-491E-8B42-EBDB9549ECB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDBDC9C-CA8F-491E-8B42-EBDB9549ECB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6733E6D6-5F1B-4FAD-AA2C-39B57AFBC4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6733E6D6-5F1B-4FAD-AA2C-39B57AFBC4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6733E6D6-5F1B-4FAD-AA2C-39B57AFBC4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6733E6D6-5F1B-4FAD-AA2C-39B57AFBC4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {585ACCC9-0E5B-4FF8-9944-7AF865C62115}
+	EndGlobalSection
+EndGlobal

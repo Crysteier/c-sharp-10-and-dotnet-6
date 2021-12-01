@@ -1,0 +1,11 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\bin\Debug\net6.0\ref\CalculatorLib.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\obj\Debug\net6.0\ref\CalculatorLib.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.pdb

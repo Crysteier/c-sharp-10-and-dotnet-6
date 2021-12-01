@@ -1,0 +1,11 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net6.0\CallStackExceptionHandlingLib.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net6.0\CallStackExceptionHandlingLib.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net6.0\ref\CallStackExceptionHandlingLib.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net6.0\CallStackExceptionHandlingLib.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net6.0\ref\CallStackExceptionHandlingLib.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net6.0\CallStackExceptionHandlingLib.pdb
