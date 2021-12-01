@@ -1,0 +1,15 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\bin\Debug\net6.0\ref\SelectionStatements.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\obj\Debug\net6.0\ref\SelectionStatements.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.genruntimeconfig.cache

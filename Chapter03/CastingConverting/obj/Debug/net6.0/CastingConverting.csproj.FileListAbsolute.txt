@@ -1,0 +1,15 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\bin\Debug\net6.0\CastingConverting.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\bin\Debug\net6.0\CastingConverting.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\bin\Debug\net6.0\CastingConverting.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\bin\Debug\net6.0\CastingConverting.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\bin\Debug\net6.0\ref\CastingConverting.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\bin\Debug\net6.0\CastingConverting.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\obj\Debug\net6.0\ref\CastingConverting.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.genruntimeconfig.cache

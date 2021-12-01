@@ -1,0 +1,15 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\bin\Debug\net6.0\IterationStatements.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\bin\Debug\net6.0\IterationStatements.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\bin\Debug\net6.0\IterationStatements.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\bin\Debug\net6.0\IterationStatements.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\bin\Debug\net6.0\ref\IterationStatements.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\bin\Debug\net6.0\IterationStatements.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\obj\Debug\net6.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\obj\Debug\net6.0\IterationStatements.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\obj\Debug\net6.0\ref\IterationStatements.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\obj\Debug\net6.0\IterationStatements.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\IterationStatements\obj\Debug\net6.0\IterationStatements.genruntimeconfig.cache

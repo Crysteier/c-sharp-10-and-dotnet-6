@@ -1,0 +1,14 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\bin\Debug\net6.0\ref\HandlingExceptions.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\obj\Debug\net6.0\ref\HandlingExceptions.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.genruntimeconfig.cache

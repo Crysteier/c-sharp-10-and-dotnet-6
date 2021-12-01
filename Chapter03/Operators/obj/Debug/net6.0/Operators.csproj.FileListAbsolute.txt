@@ -1,0 +1,14 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\bin\Debug\net6.0\Operators.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\bin\Debug\net6.0\Operators.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\bin\Debug\net6.0\Operators.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\bin\Debug\net6.0\ref\Operators.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\bin\Debug\net6.0\Operators.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\obj\Debug\net6.0\Operators.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\obj\Debug\net6.0\ref\Operators.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\obj\Debug\net6.0\Operators.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter03\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
