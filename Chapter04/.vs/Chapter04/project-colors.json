@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c8957b6-6bc9-492d-ba7d-f3affdbb2e5c": {
+      "ProjectGuid": "0c8957b6-6bc9-492d-ba7d-f3affdbb2e5c",
+      "DisplayName": "WritingFunctions",
+      "ColorIndex": 0
+    },
+    "39bc1f5e-69ba-415e-a3e7-559964c78c1d": {
+      "ProjectGuid": "39bc1f5e-69ba-415e-a3e7-559964c78c1d",
+      "DisplayName": "Debugging",
+      "ColorIndex": 1
+    },
+    "bd946d05-5e2e-4c6e-b39f-69f3cc8f0d7e": {
+      "ProjectGuid": "bd946d05-5e2e-4c6e-b39f-69f3cc8f0d7e",
+      "DisplayName": "Instrumenting",
+      "ColorIndex": 2
+    },
+    "67f2ac55-3f54-4d0e-9414-f7c4dad421e6": {
+      "ProjectGuid": "67f2ac55-3f54-4d0e-9414-f7c4dad421e6",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    },
+    "d8c94217-abd6-4ac6-bf99-0f79041f02bb": {
+      "ProjectGuid": "d8c94217-abd6-4ac6-bf99-0f79041f02bb",
+      "DisplayName": "CalculatorLib",
+      "ColorIndex": 4
+    },
+    "d206e095-a601-4b24-8807-ef8204f6b165": {
+      "ProjectGuid": "d206e095-a601-4b24-8807-ef8204f6b165",
+      "DisplayName": "CalculatorLibUnitTests",
+      "ColorIndex": 5
+    },
+    "6ddbdc9c-ca8f-491e-8b42-ebdb9549ecb1": {
+      "ProjectGuid": "6ddbdc9c-ca8f-491e-8b42-ebdb9549ecb1",
+      "DisplayName": "CallStackExceptionHandlingLib",
+      "ColorIndex": 6
+    },
+    "6733e6d6-5f1b-4fad-aa2c-39b57afbc4d6": {
+      "ProjectGuid": "6733e6d6-5f1b-4fad-aa2c-39b57afbc4d6",
+      "DisplayName": "CallStackExceptionHandling",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

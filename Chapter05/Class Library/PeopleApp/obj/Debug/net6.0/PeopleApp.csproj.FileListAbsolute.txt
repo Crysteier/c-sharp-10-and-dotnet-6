@@ -1,0 +1,20 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\bin\Debug\net6.0\PeopleApp.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\bin\Debug\net6.0\PeopleApp.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\bin\Debug\net6.0\PeopleApp.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\bin\Debug\net6.0\PeopleApp.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\bin\Debug\net6.0\ref\PeopleApp.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\bin\Debug\net6.0\PeopleApp.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\bin\Debug\net6.0\Class Library.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\bin\Debug\net6.0\Class Library.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\net6.0\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\net6.0\PeopleApp.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\net6.0\PeopleApp.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.CopyComplete
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\net6.0\PeopleApp.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\net6.0\ref\PeopleApp.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\net6.0\PeopleApp.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\net6.0\PeopleApp.genruntimeconfig.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.pdb

@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PeopleApp/1.0.0": {
+        "dependencies": {
+          "PacktLibraryModern": "1.0.0"
+        },
+        "runtime": {
+          "PeopleApp.dll": {}
+        }
+      },
+      "Class Library/1.0.0": {
+        "runtime": {
+          "Class Library.dll": {}
+        }
+      },
+      "PacktLibraryModern/1.0.0": {
+        "runtime": {
+          "PacktLibraryModern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Class Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PacktLibraryModern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

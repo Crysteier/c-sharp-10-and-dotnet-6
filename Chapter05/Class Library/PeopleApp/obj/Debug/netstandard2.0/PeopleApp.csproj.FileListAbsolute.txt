@@ -1,0 +1,4 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\netstandard2.0\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\netstandard2.0\PeopleApp.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\netstandard2.0\PeopleApp.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PeopleApp\obj\Debug\netstandard2.0\PeopleApp.csproj.CoreCompileInputs.cache

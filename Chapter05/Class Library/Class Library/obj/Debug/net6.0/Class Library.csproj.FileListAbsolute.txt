@@ -1,0 +1,11 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\bin\Debug\net6.0\Class Library.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\bin\Debug\net6.0\Class Library.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\bin\Debug\net6.0\ref\Class Library.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\bin\Debug\net6.0\Class Library.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\obj\Debug\net6.0\Class Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\obj\Debug\net6.0\Class Library.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\obj\Debug\net6.0\Class Library.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\obj\Debug\net6.0\Class Library.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\obj\Debug\net6.0\Class Library.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\obj\Debug\net6.0\ref\Class Library.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\Class Library\obj\Debug\net6.0\Class Library.pdb

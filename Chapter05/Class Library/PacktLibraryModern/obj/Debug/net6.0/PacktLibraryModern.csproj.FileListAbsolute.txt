@@ -1,0 +1,12 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\bin\Debug\net6.0\ref\PacktLibraryModern.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\obj\Debug\net6.0\ref\PacktLibraryModern.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter05\Class Library\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.pdb
