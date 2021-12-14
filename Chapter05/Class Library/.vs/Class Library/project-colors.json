@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b29cc12b-42b9-4605-b4f7-4aaaf19a692d": {
+      "ProjectGuid": "b29cc12b-42b9-4605-b4f7-4aaaf19a692d",
+      "DisplayName": "Class Library",
+      "ColorIndex": 0
+    },
+    "43fbf6e0-e829-45c1-a073-9b3aa649f19f": {
+      "ProjectGuid": "43fbf6e0-e829-45c1-a073-9b3aa649f19f",
+      "DisplayName": "PeopleApp",
+      "ColorIndex": 1
+    },
+    "28afc8a2-8a78-4162-84bf-2c181ca52300": {
+      "ProjectGuid": "28afc8a2-8a78-4162-84bf-2c181ca52300",
+      "DisplayName": "PacktLibraryModern",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
