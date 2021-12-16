@@ -1,0 +1,17 @@
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.csproj.AssemblyReference.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.AssemblyInfo.cs
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.exe
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.deps.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.runtimeconfig.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\bin\Debug\net6.0\ref\AssembliesAndNamespaces.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\bin\Debug\net6.0\DialectSoftware.Collections.Matrix.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.csproj.CopyComplete
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\ref\AssembliesAndNamespaces.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.genruntimeconfig.cache

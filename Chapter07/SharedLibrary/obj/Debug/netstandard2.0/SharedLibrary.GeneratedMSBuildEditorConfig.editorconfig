@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SharedLibrary
+build_property.ProjectDir = C:\Repositories\c-sharp-10-and-dotnet-6\Chapter07\SharedLibrary\
