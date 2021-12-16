@@ -16,3 +16,21 @@ D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\ne
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\ref\PeopleApp.dll
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.pdb
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.genruntimeconfig.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\bin\Debug\net6.0\PeopleApp.exe
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\bin\Debug\net6.0\PeopleApp.deps.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\bin\Debug\net6.0\PeopleApp.runtimeconfig.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\bin\Debug\net6.0\PeopleApp.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\bin\Debug\net6.0\ref\PeopleApp.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\bin\Debug\net6.0\PeopleApp.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\bin\Debug\net6.0\PacktLibrary.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\bin\Debug\net6.0\PacktLibrary.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.AssemblyReference.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.AssemblyInfo.cs
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.CopyComplete
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\ref\PeopleApp.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.genruntimeconfig.cache

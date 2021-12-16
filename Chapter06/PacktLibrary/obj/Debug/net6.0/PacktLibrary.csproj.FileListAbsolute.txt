@@ -9,3 +9,14 @@ D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.dll
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug\net6.0\ref\PacktLibrary.dll
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.deps.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\bin\Debug\net6.0\ref\PacktLibrary.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfo.cs
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug\net6.0\ref\PacktLibrary.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.pdb

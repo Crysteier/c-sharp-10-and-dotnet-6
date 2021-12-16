@@ -1,0 +1,16 @@
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.exe
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.deps.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.runtimeconfig.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\bin\Debug\net6.0\ref\CodeAnalyzing.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.AssemblyInfo.cs
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\obj\Debug\net6.0\ref\CodeAnalyzing.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.genruntimeconfig.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.xml
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.xml
