@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c042ee39-4b8b-4540-b11e-29a99f080919": {
+      "ProjectGuid": "c042ee39-4b8b-4540-b11e-29a99f080919",
+      "DisplayName": "AssembliesAndNamespaces",
+      "ColorIndex": 0
+    },
+    "03a21f71-aeeb-4386-a102-366ae30bf84d": {
+      "ProjectGuid": "03a21f71-aeeb-4386-a102-366ae30bf84d",
+      "DisplayName": "SharedLibrary",
+      "ColorIndex": 1
+    },
+    "2aeab44c-4998-4bfa-8194-841f3296e90a": {
+      "ProjectGuid": "2aeab44c-4998-4bfa-8194-841f3296e90a",
+      "DisplayName": "DotNetEverywhere",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
