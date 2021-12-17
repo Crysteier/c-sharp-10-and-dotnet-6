@@ -1,0 +1,15 @@
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.exe
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.deps.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.runtimeconfig.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\ref\WorkingWithNumbers.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\ref\WorkingWithNumbers.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.exe
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.deps.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.runtimeconfig.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\ref\WorkingWithNetworkResources.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.AssemblyInfo.cs
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\ref\WorkingWithNetworkResources.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.genruntimeconfig.cache

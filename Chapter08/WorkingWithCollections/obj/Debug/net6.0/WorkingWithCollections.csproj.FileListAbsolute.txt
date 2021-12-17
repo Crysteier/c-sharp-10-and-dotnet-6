@@ -1,0 +1,14 @@
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.exe
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.deps.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.runtimeconfig.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\bin\Debug\net6.0\ref\WorkingWithCollections.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfo.cs
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\obj\Debug\net6.0\ref\WorkingWithCollections.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.exe
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.deps.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.runtimeconfig.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\ref\WorkingWithRegularExpressions.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\ref\WorkingWithRegularExpressions.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.genruntimeconfig.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.csproj.AssemblyReference.cache
