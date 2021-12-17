@@ -1,0 +1,15 @@
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.exe
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.deps.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.runtimeconfig.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\ref\WorkingWithStreams.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\ref\WorkingWithStreams.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.genruntimeconfig.cache

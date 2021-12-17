@@ -1,0 +1,15 @@
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.exe
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.deps.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.runtimeconfig.json
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\ref\WorkingWithFileSystems.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.csproj.AssemblyReference.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\ref\WorkingWithFileSystems.dll
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.pdb
+C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.genruntimeconfig.cache
