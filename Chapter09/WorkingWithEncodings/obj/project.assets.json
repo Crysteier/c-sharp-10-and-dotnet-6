@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS Projects\\Learning-c-sharp-10-and-dotnet-6\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
-      "projectName": "WorkingWithFileSystems",
-      "projectPath": "D:\\VS Projects\\Learning-c-sharp-10-and-dotnet-6\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
+      "projectUniqueName": "D:\\VS Projects\\Learning-c-sharp-10-and-dotnet-6\\Chapter09\\WorkingWithEncodings\\WorkingWithEncodings.csproj",
+      "projectName": "WorkingWithEncodings",
+      "projectPath": "D:\\VS Projects\\Learning-c-sharp-10-and-dotnet-6\\Chapter09\\WorkingWithEncodings\\WorkingWithEncodings.csproj",
       "packagesPath": "C:\\Users\\guntel\\.nuget\\packages\\",
-      "outputPath": "D:\\VS Projects\\Learning-c-sharp-10-and-dotnet-6\\Chapter09\\WorkingWithFileSystems\\obj\\",
+      "outputPath": "D:\\VS Projects\\Learning-c-sharp-10-and-dotnet-6\\Chapter09\\WorkingWithEncodings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

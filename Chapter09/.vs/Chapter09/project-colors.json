@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a823a813-82c0-4c1c-bb1d-6a4d70384061": {
+      "ProjectGuid": "a823a813-82c0-4c1c-bb1d-6a4d70384061",
+      "DisplayName": "WorkingWithStreams",
+      "ColorIndex": 0
+    },
+    "f76b8ef6-b93b-44b1-a33e-64b44936fc1d": {
+      "ProjectGuid": "f76b8ef6-b93b-44b1-a33e-64b44936fc1d",
+      "DisplayName": "WorkingWithFileSystems",
+      "ColorIndex": 1
+    },
+    "3a986a4d-82e7-4996-8b29-444c6da058cc": {
+      "ProjectGuid": "3a986a4d-82e7-4996-8b29-444c6da058cc",
+      "DisplayName": "WorkingWithEncodings",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

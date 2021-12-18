@@ -13,3 +13,18 @@ C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\n
 C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\ref\WorkingWithStreams.dll
 C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.pdb
 C:\Repositories\c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.genruntimeconfig.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\ref\WorkingWithStreams.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\ref\WorkingWithStreams.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.genruntimeconfig.cache

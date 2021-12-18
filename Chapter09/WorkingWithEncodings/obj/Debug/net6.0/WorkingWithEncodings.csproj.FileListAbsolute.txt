@@ -1,0 +1,14 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\ref\WorkingWithEncodings.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\ref\WorkingWithEncodings.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.genruntimeconfig.cache
