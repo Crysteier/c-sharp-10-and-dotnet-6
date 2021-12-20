@@ -1,0 +1,15 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\ref\WorkingWithSerialization.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\ref\WorkingWithSerialization.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.genruntimeconfig.cache
