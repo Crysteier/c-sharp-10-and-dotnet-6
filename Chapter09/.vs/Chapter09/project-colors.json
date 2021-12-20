@@ -15,7 +15,12 @@
       "ProjectGuid": "3a986a4d-82e7-4996-8b29-444c6da058cc",
       "DisplayName": "WorkingWithEncodings",
       "ColorIndex": 2
+    },
+    "0364d4ee-5bd2-4d08-99c3-c33170fc9e74": {
+      "ProjectGuid": "0364d4ee-5bd2-4d08-99c3-c33170fc9e74",
+      "DisplayName": "WorkingWithSerialization",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
