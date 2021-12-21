@@ -1,4 +1,3 @@
-D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.csproj.AssemblyReference.cache
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.AssemblyInfoInputs.cache
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.AssemblyInfo.cs
@@ -54,3 +53,8 @@ D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\obj\
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\ref\WorkingWithEFCore.dll
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.pdb
 D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.genruntimeconfig.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\bin\Debug\net6.0\Humanizer.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\bin\Debug\net6.0\Castle.Core.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.csproj.AssemblyReference.cache

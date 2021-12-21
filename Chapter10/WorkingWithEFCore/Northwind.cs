@@ -17,6 +17,7 @@ namespace WorkingWithEFCore
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            optionsBuilder.UseLazyLoadingProxies();
             if (ProjectConstants.Databaseprovider.Equals("SQLite"))
             {
                 string path = Path.Combine(Environment.CurrentDirectory, "Northwind.db");
@@ -38,6 +39,9 @@ namespace WorkingWithEFCore
                 .IsRequired()
                 .HasMaxLength(15);
 
+            modelBuilder.Entity<Product>()
+                .HasQueryFilter(p => !p.Discontinued);
+
             if (ProjectConstants.Databaseprovider == "SQLite")
             {
                 // added to "fix" the lack of decimal support in SQLite
@@ -48,3 +52,4 @@ namespace WorkingWithEFCore
         }
     }
 }
+
