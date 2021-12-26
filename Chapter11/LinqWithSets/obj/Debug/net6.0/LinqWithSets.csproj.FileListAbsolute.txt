@@ -1,0 +1,14 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\bin\Debug\net6.0\ref\LinqWithSets.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\obj\Debug\net6.0\ref\LinqWithSets.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.genruntimeconfig.cache

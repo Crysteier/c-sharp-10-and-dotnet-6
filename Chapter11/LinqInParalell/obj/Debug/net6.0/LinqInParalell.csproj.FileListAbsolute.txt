@@ -1,0 +1,14 @@
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\bin\Debug\net6.0\LinqInParalell.exe
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\bin\Debug\net6.0\LinqInParalell.deps.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\bin\Debug\net6.0\LinqInParalell.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\bin\Debug\net6.0\LinqInParalell.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\bin\Debug\net6.0\ref\LinqInParalell.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\bin\Debug\net6.0\LinqInParalell.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\obj\Debug\net6.0\LinqInParalell.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\obj\Debug\net6.0\LinqInParalell.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\obj\Debug\net6.0\LinqInParalell.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\obj\Debug\net6.0\LinqInParalell.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\obj\Debug\net6.0\LinqInParalell.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\obj\Debug\net6.0\ref\LinqInParalell.dll
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\obj\Debug\net6.0\LinqInParalell.pdb
+D:\VS Projects\Learning-c-sharp-10-and-dotnet-6\Chapter11\LinqInParalell\obj\Debug\net6.0\LinqInParalell.genruntimeconfig.cache

@@ -41,6 +41,7 @@ XmlSerializer xs = new(people.GetType());
 string path = Combine(CurrentDirectory, "people.xml");
 using (FileStream stream = File.Create(path))
 {
+    
     xs.Serialize(stream,people);
 }
 
